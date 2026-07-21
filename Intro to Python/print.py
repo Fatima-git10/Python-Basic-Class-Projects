@@ -1,0 +1,5 @@
+print("my name is fatima",end=". \n")
+print("i am in grade 7 ")
+print("i am 13 years old")
+print("my hobbies are cooking")
+print("5 + 3= ",5+3)
